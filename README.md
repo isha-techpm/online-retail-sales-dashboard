@@ -12,8 +12,6 @@ The report analyzes global retail transactions and provides insights into revenu
 
 ## 🖼️ Dashboard Preview
 
-_(Upload your screenshots into `/assets` and update the paths below)_
-
 ![Dashboard Page 1](assets/dashboard1.png)
 
 ## 🗂️ File Included
